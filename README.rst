@@ -87,7 +87,7 @@ You can install beets by typing ``pip install beets``. Then check out the
 Authors
 -------
 
-Beets is by `Adrian Sampson`_ with a supporting cast of thousands. For help,
+Beets is by `Adrian Sampson` and `Manan Sharma`_ with a supporting cast of thousands. For help,
 please contact the `mailing list`_.
 
 .. _mailing list: https://groups.google.com/forum/#!forum/beets-users
